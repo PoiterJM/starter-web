@@ -11,9 +11,12 @@ using a web project.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above the main purpose is to 
+provide simple samples for GIT training
 
 ## Deployment
+
+More text goes here
 
 
 ## How to contribute
