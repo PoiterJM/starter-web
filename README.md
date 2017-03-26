@@ -21,10 +21,7 @@ More text goes here
 
 ## How to contribute
 
-Don't do it
 
-###
+### Copyright
 
-stuf added here
-
--u3wfgerjergrpog3ewr
+PM git trainimng 2017
